@@ -10,4 +10,27 @@
 ### About myself:
 I want to work in IT
 ******
+### My skills:
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+*****
+### My code:
+```
+function sayHello(name) {
+  console.log(`Hello, ${name}`)
+}
+```
+*****
+### Education :
+University: Belarusian National Technical University
+****
+### Language:
+- belorussian 
+- russian 
+- english - intermediate
+
+
 
